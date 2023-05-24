@@ -1,0 +1,17 @@
+Procedures in Doctor Application
+
+1.To add doctors => proc_addDoctors
+2.To show doctors => proc_showDoctors
+3.To add Patients => proc_addPatients
+4.To show patients => proc_showPatients
+5.To Get one Patient => proc_GetSinglePatient
+6.Get recent id => proc_GetRecentId
+7.Get recent pid => proc_GetRecentPid
+8.Get single doctor => proc_GetSingleDoctor
+9.Delete doctors => proc_delDoctors
+10.Delete patients => proc_delPatients
+11.Add Appointments => proc_AddAppointments
+12.Show All Appointments => proc_ShowAllAppointments
+13.Show Patient Appointments => proc_ShowPatientAppointments(@pid int)
+14.Del Appointments => proc_DelAppointment(@AppId int)
+15.Get Recent APpointment id => proc_GetRecentAppId

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Sample Page
+        </title>
+        <script>
+            function firstMethod(){
+                alert("STFU");
+                document.getElementById("h1").innerHTML="Changed";
+                document.getElementById("txtName").value="Naruto";
+                document.getElementById("btn").style.backgroundColor="green";
+                document.getElementById("btn").innerHTML="Clicked";
+
+            }
+            function secondMethod(){
+                document.getElementById("h1").style.backgroundColor="yellow";
+            }
+            
+        </script>
+        
+    </head>
+    <body>
+        <div id = "h1">HeLlO</div>
+        <button id = 'btn' onclick="firstMethod()"> Click Here</button>
+        <button id="btn1" onclick="secondMethod()">again</button>
+        <input type="text" id="txtName">
+    </body>
+</html>

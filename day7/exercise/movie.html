@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Movinfo
+        </title>
+        <header><br><br><Strong><center> Movie Information</center></Strong></header>
+        <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function(){
+                $("input").blur(function(){
+                    var movieName = $("#MovName").val()
+                    var movieDuration = $("#MovDuration").val()
+                    var movieRating = $("#MovRating").val()
+
+                    let color1 = ""
+                    let color2 = ""
+                    let color3 = ""
+
+                    movieName == "" ? color1 = "red" : color1 = "green"
+                    movieDuration == "" ? color2 = "red" : color2 = "green"
+                    movieRating == "" ? color3 = "red" : color3 = "green"
+                    // console.log(color1 + color2 + color3)
+                    $("#movieName").css("border-color" , color1)
+                    $("#movieDuration").css("border-color" , color2)
+                    $("#movieRating").css("border-color" , color3)
+    
+
+                })
+            })
+        </script>
+        <style>
+            table , tr{
+                border: 1px solid black;
+                padding: 15px;
+            }
+        </style>
+    </head>
+
+    <body><center>
+        <br><br><table>
+            <tr>
+                <td>Movie Name : </td>
+                <td><input type="text" id="MovName"></td>
+            </tr>
+            <tr>
+                <td>Movie duration (in mins) : </td>
+                <td><input type="number" id="MovDuration"></td>
+            </tr>
+            <tr>
+                <td>Movie Rating : </td>
+                <td><input type="range" min="0" max="5" id="MovRating"></td>
+            </tr>
+
+            <tr>
+                <td><button id="register"> Register</button></td>
+                <td><button id="show"> Show data</button></td>
+            </tr>
+        </table>
+    </center>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./samples.css">
+    <script src="./price.js"></script>
+</head> 
+<body>
+    <form>
+    <center><label style="color: white;"><h3>One-Stop Mobile Accessories</h3></label></center>
+    <center><table style="width:50%">
+        <tr>
+            <td colspan="2" class="title">Personal Details</td>
+        </tr>
+        <tr>
+            <td><label>Name</label></td>
+            <td><center><input type="text" id="name" onblur="validateName()" pattern="[a-zA-Z\s]+"required /></center></td>
+        </tr>
+        <tr>
+            <td>Phone Number</td>
+            <td><center><input type="number" id="phoneNumber" onblur="validateContactNo()" required /></center></td>
+        </tr>
+        <tr>
+            <td>E-mail</td>
+            <td><center><input type="email" id="emailId" onblur="emailValidation()" required /></center></td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td><center><textarea cols="50" rows="4" id="address" onblur="validateAddress()" required></textarea></center></td>
+        </tr>
+        <tr>
+            <td colspan="2"><center>Combo Offers(Save upto Rs. 400 on each combo !!)</center></td>
+        </tr>
+        <tr>
+        <td rowspan="6">
+            <input type="checkbox" value="32GB micro SDHC Memory Card + iCXX Micro-USB cable" name="comboOffers"
+            id="option1"/>
+            <label>SanDisk 32GB micro SDHC Memory Card + iXCC Micro-USB cable</label><br><br>
+            <input type="checkbox" value="Sandisk Cruzer Blade 32 GB Pen Drive + Samsung Type B 15W Travel Adaptor"
+            name="comboOffers" id="option2"/>
+            <label>Sandisk Cruzer Blade 32 GB Pen Drive + Samsung Type B 15W Travel Adaptor</label><br><br>
+            <input type="checkbox" value="Sony WF-1000XM3 Head Phone+Sandisk 16GB micro SDHC Memory Card" name="comboOffers"
+            id="option3"/><label>Sony WF-1000XM3 Head Phone+Sandisk 16GB micro SDHC Memory Card</label><br><br>
+            <input type="checkbox" value="Mpow Car Phone Mount+Zebroni 1 Amp Turbo Car Mobile Charger"name="comboOffers"
+            id="option4"/><label>Mpow Car Phone Mount+Zebroni 1 Amp Turbo Car Mobile Charger</label><br><br>
+            <input type="checkbox" value="Tribit XSound Go Bluetooth Speaker+Mpow Car Phone Mount" name="comboOffers"
+            id="option5"/><label>Tribit XSound Go Bluetooth Speaker+Mpow Car Phone Mount</label>
+        </td></tr>
+        <div class="price">
+        <tr>
+            <td>Rs 799/- only</td>
+        </tr>
+        <tr>
+            <td>Rs 899/- only</td>
+        </tr>
+        <tr>
+            <td>Rs 1199/- only</td>
+        </tr>
+        <tr>
+        <td>Rs 299/- only</td>
+        </tr>
+        <tr>
+        <td>Rs 999/- only</td>
+        </tr></tr>
+        </div>
+        
+        <tr>
+            <td colspan="2"><label>*Enjoy 20% discount on purchasing combos worth 2000 and above!! </label></td>
+        </tr>
+        
+     
+    </table></center>
+    <input type="submit" value="PLACE ORDER" id="order" onclick="costCalculation()"/>
+    <br>
+    <div id="result"></div>
+    </form>
+
+    
+</body>
+</html>

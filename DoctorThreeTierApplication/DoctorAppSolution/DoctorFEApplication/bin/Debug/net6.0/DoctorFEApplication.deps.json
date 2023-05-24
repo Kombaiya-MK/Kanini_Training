@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoctorFEApplication/1.0.0": {
+        "dependencies": {
+          "DoctorBLLibrary": "1.0.0",
+          "DoctorDALLibrary": "1.0.0",
+          "DoctorModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DoctorFEApplication.dll": {}
+        }
+      },
+      "DoctorBLLibrary/1.0.0": {
+        "dependencies": {
+          "DoctorDALLibrary": "1.0.0",
+          "DoctorModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DoctorBLLibrary.dll": {}
+        }
+      },
+      "DoctorDALLibrary/1.0.0": {
+        "dependencies": {
+          "DoctorModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DoctorDALLibrary.dll": {}
+        }
+      },
+      "DoctorModelLibrary/1.0.0": {
+        "runtime": {
+          "DoctorModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorFEApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

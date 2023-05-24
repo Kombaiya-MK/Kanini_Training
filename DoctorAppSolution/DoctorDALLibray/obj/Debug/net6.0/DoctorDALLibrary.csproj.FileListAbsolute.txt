@@ -1,0 +1,15 @@
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\bin\Debug\net6.0\DoctorDALLibrary.deps.json
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\bin\Debug\net6.0\DoctorDALLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\bin\Debug\net6.0\DoctorDALLibrary.pdb
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\bin\Debug\net6.0\DoctorModelLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\bin\Debug\net6.0\DoctorModelLibrary.pdb
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.AssemblyInfo.cs
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.csproj.CopyComplete
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\refint\DoctorDALLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\DoctorDALLibrary.pdb
+D:\Kanini_training\DoctorAppSolution\DoctorDALLibray\obj\Debug\net6.0\ref\DoctorDALLibrary.dll

@@ -1,0 +1,15 @@
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\bin\Debug\net6.0\UnderstandingOveriding.exe
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\bin\Debug\net6.0\UnderstandingOveriding.deps.json
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\bin\Debug\net6.0\UnderstandingOveriding.runtimeconfig.json
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\bin\Debug\net6.0\UnderstandingOveriding.dll
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\bin\Debug\net6.0\UnderstandingOveriding.pdb
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.csproj.AssemblyReference.cache
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.AssemblyInfoInputs.cache
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.AssemblyInfo.cs
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.dll
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\refint\UnderstandingOveriding.dll
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.pdb
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\UnderstandingOveriding.genruntimeconfig.cache
+D:\Kanini_training\day23\SolutionOveriding\UnderstandingOveriding\obj\Debug\net6.0\ref\UnderstandingOveriding.dll

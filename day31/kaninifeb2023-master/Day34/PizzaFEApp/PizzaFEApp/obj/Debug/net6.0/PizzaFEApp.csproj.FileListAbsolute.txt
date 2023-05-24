@@ -1,0 +1,50 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaBLLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaDALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaModelLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaBLLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaDALLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaModelLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\refint\PizzaFEApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\ref\PizzaFEApp.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.exe
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.deps.json
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.runtimeconfig.json
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaFEApp.pdb
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaBLLibrary.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaDALLibrary.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaModelLibrary.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaBLLibrary.pdb
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaDALLibrary.pdb
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\PizzaModelLibrary.pdb
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.AssemblyInfo.cs
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.csproj.CopyComplete
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\refint\PizzaFEApp.dll
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.pdb
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.genruntimeconfig.cache
+D:\Kanini_training\day31\kaninifeb2023-master\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\ref\PizzaFEApp.dll

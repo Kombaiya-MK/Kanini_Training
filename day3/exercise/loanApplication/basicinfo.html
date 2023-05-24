@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Basic Information
+        </title>
+        <link rel="stylesheet" href="./style.css">
+        <header>
+                AOT Bank
+        </header>
+        <script src="./script.js"></script>
+    </head>
+
+    <body>
+        <div id="basicinfo">
+        <form onsubmit="return false">
+            <br><br><label>Name</label>&emsp14;&emsp14;&emsp14;
+            <input type="text" id="txtname" placeholder="Enter your name" required><br/><br>
+            <label>Age</label>&emsp14;&emsp14;&emsp14;
+            <input type="number" id="txtage" min="16" placeholder="Enter your age" required><br/><br>
+            <label>Dob</label>&emsp14;&emsp14;&emsp14;
+            <input type="date" id="date" required><br/><br>
+            <label>Email</label>&emsp14;&emsp14;&emsp14;
+            <input type="email" id="mail" required><br/><br>
+            <label>Phone number</label>&emsp14;&emsp14;&emsp14;
+            <input type="number" id="phnumber" required><br/><br>
+            <label>Gender</label>&emsp14;&emsp14;&emsp14;
+            <input type="radio" id="Male" name="Gender" value="Male"/>
+            <label for="male">Male</label>
+            <input type="radio" id="Female" name="Gender" value="Female"/>
+            <label for="Female">Female</label>
+            <input type="radio" id="Others" name="Gender" value="Female"/>
+            <label for="Others">Others</label><br/><br>
+            <label>Father's Name</label>&emsp14;&emsp14;&emsp14;
+            <input type="text" id="fname"><br/><br><br><br>
+            <input type="reset" name="reset" class="fcc-btn">  &emsp14;&emsp14;&emsp14;
+            <button onclick="addBasicInfo()" class="fcc-btn"> Submit</button>&emsp14;&emsp14;&emsp14;
+            <a class="fcc-btn" href="#financialInfo">Next</a>
+        </form>
+    </div>
+        <div id="financialInfo">
+        <form onsubmit="return false">
+            <br><br><label>Yearly Income</label>&emsp14;&emsp14;&emsp14;
+            <input type="number" id="txtincome" required><br/><br>
+            <label>Monthly Allowance</label>&emsp14;&emsp14;&emsp14;
+            <input type="number" id="allowance" required><br><br>
+            <label>Salaried</label>&emsp14;&emsp14;&emsp14;
+            <input type="radio" id="Yes" name="Salaried" value="Yes"/>
+            <label for="Yes">Yes</label>
+            <input type="radio" id="No" name="Salaried" value="No"/>
+            <label for="Others">No</label><br/><br>
+            <label> Previous loan details</label>&emsp14;&emsp14;&emsp14;
+            <input type="text" id="loandetails" required><br><br><br><br>
+            <a class="fcc-btn" href="#basicinfo">Back</a>&emsp14;&emsp14;&emsp14;
+            <button onclick="addFinancialInfo()" class="fcc-btn"> Submit</button>&emsp14;&emsp14;&emsp14;
+            <a class="fcc-btn" href="#loanInfo">Next</a>
+        </form>
+    </div>
+    <div id="loanInfo">
+            <form class = "formid" onsubmit="return false">
+                <br><br><label>Loan Amount</label>&emsp14;&emsp14;&emsp14;&emsp14;
+                <input type="number" id="loanamount" required><br><br>
+                <label>Tenure</label>&emsp14;&emsp14;&emsp14;&emsp14;
+                <input type="number" id="tenure" required><br><br>
+                <label>Type of loan</label>&emsp14;&emsp14;&emsp14;&emsp14;
+                <select name="loanType" id="loanTypee" required>
+                    <option value="personal">Personal Loan</option>
+                    <option value="property">Property Loan</option>
+                    <option value="education">Education Loan</option>
+                    <option value="gold">Gold loan</option>
+                </select><br><br>
+                <label>CIBIL score</label>&emsp14;&emsp14;&emsp14;&emsp14;
+                <input type="range" id="cscore" min="300" max="900" required><br><br><br><br>
+                <a class="fcc-btn" href="#financialInfo">Back</a>&emsp14;&emsp14;&emsp14;&emsp14;
+                <button onclick="addLoanInfo()" class="fcc-btn">Submit</button>
+        </form>
+    </div>
+    </body>
+</html>

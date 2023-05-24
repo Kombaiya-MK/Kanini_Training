@@ -1,0 +1,17 @@
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\DoctorBLLibrary.deps.json
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\DoctorBLLibrary.dll
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\DoctorBLLibrary.pdb
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\DoctorDALLibrary.dll
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\doctorModelLibrary.dll
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\DoctorDALLibrary.pdb
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\bin\Debug\net6.0\doctorModelLibrary.pdb
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.AssemblyInfo.cs
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.csproj.CopyComplete
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.dll
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\refint\DoctorBLLibrary.dll
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\DoctorBLLibrary.pdb
+D:\Kanini_training\DoctorApplicationADO\SolutionDoctorClinic\DoctorBLLibrary\obj\Debug\net6.0\ref\DoctorBLLibrary.dll

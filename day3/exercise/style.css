@@ -1,0 +1,224 @@
+body{
+    /* background-color: black; */
+    margin: 10px;
+    background-image: url("./resources/images/space.jpeg");
+}
+#sun{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    background:linear-gradient(yellow , red);
+    box-shadow: rgb(255, 145, 0) 5px 5px 5px;
+    /* position: relative; */
+    margin: auto;
+    /* width: 50%; */
+    padding: 10px;
+    position: absolute;
+    top:50% ;
+    left: 50%;
+}
+#p1{
+    border: 0.2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    height: 5px;
+    width: 5px;
+    background:linear-gradient(yellow , red);
+    /* box-shadow: yellow 1px 1px 1px; */
+    position: absolute;
+    top:50% ;
+    left: 45%;
+    transform: rotate(0deg);
+    transition: transform 5s linear;
+    animation: GFG 5s infinite linear;
+
+}
+#p2{
+    border: 0.5px solid rgb(10, 10, 10);
+    border-radius:10px ;
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    background-color: coral;
+    animation: GFG 5s infinite linear;
+
+}
+#p3{
+    border: 1px solid rgb(14, 14, 15);
+    border-radius:20px ;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top:40% ;
+    left: 40%;
+    background: linear-gradient(rgb(48, 146, 206) , rgb(54, 184, 14));
+    animation: GFG 5s infinite linear;
+
+}
+#p4{
+    border:0.4px solid rgb(13, 13, 13);
+    border-radius: 15px;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top:36% ;
+    left: 36%;
+    background: linear-gradient(rgb(255, 145, 2) , rgb(130, 75, 4));
+    animation: GFG 5s infinite linear;
+
+}
+
+#p5{
+    border:1px solid rgb(13, 13, 12);
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top:30% ;
+    left: 30%;
+    background: linear-gradient(rgb(203, 106, 45) , rgb(215, 215, 201));
+    animation: GFG 5s infinite linear;
+
+}
+
+#p6{
+    border:1px solid rgb(14, 14, 13);
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top:50% ;
+    left: 50%;
+    background: linear-gradient(rgb(203, 106, 45) , rgb(215, 215, 201));
+    -webkit-animation: myOrbit 6s linear infinite; 
+    -moz-animation: myOrbit 6s linear infinite; 
+    -o-animation: myOrbit 6s linear infinite; 
+    animation: myOrbit 6s linear infinite; 
+
+
+}
+
+#p7{
+    border:0.4px solid rgb(13, 13, 13);
+    border-radius: 10px;
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    top:15% ;
+    left: 15%;
+    background: linear-gradient(rgb(13, 233, 189) , rgb(40, 57, 61));
+    
+}
+
+#orbit1{
+    border: 1px groove white;
+    border-radius: 50%;
+    height: 120px;
+    width: 245px;
+    position: absolute;
+    top:50%;
+    left: 45%;
+
+}
+#orbit2{
+    border: 1px groove white;
+    border-radius: 50%;
+    height: 150px;
+    width: 400px;
+    position: absolute;
+    top:45%;
+    left: 38%;
+
+}
+
+#orbit3{
+    border: 1px groove white;
+    border-radius: 50%;
+    height: 250px;
+    width: 600px;
+    position: absolute;
+    top:40%;
+    left: 31%;
+
+}
+
+#orbit4{
+    border: 1px groove white;
+    border-radius: 50%;
+    height: 300px;
+    width: 700px;
+    position: absolute;
+    top:35%;
+    left: 25%;
+}
+
+#orbit5{
+    border: 1px groove white;
+    border-radius: 50%;
+    height: 400px;
+    width: 900px;
+    position: absolute;
+    top:30%;
+    left: 16%;
+}
+
+#orbit6{
+    border: 1px groove white;
+    border-radius: 80%;
+    height: 600px;
+    width: 1400px;
+    position: absolute;
+    top:20%;
+    left: -5%;
+}
+#orbit7{
+    border: 1px groove white;
+    border-radius: 50%;
+    height: 800px;
+    width: 1800px;
+    position: absolute;
+    top:0%;
+    left: -10%;
+}
+ @-webkit-keyframes anime{
+    from{
+        transform: rotateZ(0deg);
+
+    }
+    to{
+        transform: rotateZ(360deg);
+    }
+ }
+ @keyframes GFG {
+    0% {
+        transform: rotate(0deg) 
+              translateZ(100px) rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg) 
+              translate(100px) rotate(-360deg);
+    }
+}
+
+@-webkit-keyframes myOrbit {
+    from { -webkit-transform: rotate(0deg) translateX(5px) translateY(120px) rotate(0deg);}
+    to   { -webkit-transform: rotate(360deg) translateX(5px) translateY(120px) rotate(-360deg); }
+}
+
+@-moz-keyframes myOrbit {
+    from { -moz-transform: rotate(0deg) translateX(100px) rotate(0deg); }
+    to   { -moz-transform: rotate(360deg) translateX(100px) rotate(-360deg); }
+}
+
+@-o-keyframes myOrbit {
+    from { -o-transform: rotate(0deg) translateX(100px) rotate(0deg); }
+    to   { -o-transform: rotate(360deg) translateX(100px) rotate(-360deg); }
+}
+
+@keyframes myOrbit {
+    from { transform: rotate(0deg) translateX(100px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(100px) rotate(-360deg); }
+}

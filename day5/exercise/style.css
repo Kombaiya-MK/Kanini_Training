@@ -1,0 +1,13 @@
+head{
+    text-align: center;
+}
+body{
+    margin-top: 10px;
+    border: rgb(43, 131, 148) 2px solid;
+    width: 200px;
+    height: 200px;
+    top:20%;
+    left:50%;
+    position: absolute;
+    text-align: center;
+}

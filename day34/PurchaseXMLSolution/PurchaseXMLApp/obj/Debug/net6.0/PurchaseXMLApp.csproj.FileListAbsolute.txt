@@ -1,0 +1,15 @@
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\bin\Debug\net6.0\PurchaseXMLApp.exe
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\bin\Debug\net6.0\PurchaseXMLApp.deps.json
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\bin\Debug\net6.0\PurchaseXMLApp.runtimeconfig.json
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\bin\Debug\net6.0\PurchaseXMLApp.dll
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\bin\Debug\net6.0\PurchaseXMLApp.pdb
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.AssemblyInfo.cs
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.dll
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\refint\PurchaseXMLApp.dll
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.pdb
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\PurchaseXMLApp.genruntimeconfig.cache
+D:\Kanini_training\day34\PurchaseXMLSolution\PurchaseXMLApp\obj\Debug\net6.0\ref\PurchaseXMLApp.dll

@@ -1,0 +1,8 @@
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\bin\Debug\UnderstandingTypesApp.exe.config
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\bin\Debug\UnderstandingTypesApp.exe
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\bin\Debug\UnderstandingTypesApp.pdb
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.csproj.SuggestedBindingRedirects.cache
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.exe
+D:\Kanini_training\day19\Types Solution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.pdb

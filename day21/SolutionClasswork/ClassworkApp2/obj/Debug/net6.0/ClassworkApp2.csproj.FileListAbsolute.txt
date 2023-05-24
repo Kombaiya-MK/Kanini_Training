@@ -1,0 +1,15 @@
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\bin\Debug\net6.0\ClassworkApp2.exe
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\bin\Debug\net6.0\ClassworkApp2.deps.json
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\bin\Debug\net6.0\ClassworkApp2.runtimeconfig.json
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\bin\Debug\net6.0\ClassworkApp2.dll
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\bin\Debug\net6.0\ClassworkApp2.pdb
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.csproj.AssemblyReference.cache
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.AssemblyInfoInputs.cache
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.AssemblyInfo.cs
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.dll
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\refint\ClassworkApp2.dll
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.pdb
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ClassworkApp2.genruntimeconfig.cache
+D:\Kanini_training\day21\SolutionClasswork\ClassworkApp2\obj\Debug\net6.0\ref\ClassworkApp2.dll

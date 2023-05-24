@@ -1,0 +1,761 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1, shrink-to-fit=no" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://fonts.google.com/specimen/Fjalla+One" rel="stylesheet" type="text/css">
+    <title>OtakuKulture</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="login.js"></script>
+    <link rel = "Icon" href = "./resources/images/png-clipart-otaku-otaku-logo-anime-beach-vapor-lg-text-manga-thumbnail.ico" type = "image/x-icon">
+    <style>
+        .scrollspy-example {
+                                position: relative;
+                                /* height: 300px; */
+                                overflow: auto;
+                            }
+
+        a{
+            border: none;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        
+        body, html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  background-image: url("./resources/images/menu/menuBackground.jpg");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg-text {
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+    </style>
+</head>
+<header>
+    <div class="container-fluid" style="background-color:white;">
+    <center><div class="container-fluid" id="Flash">Allow location access for local store menu and promos
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button id="loc">Set Location</button>
+    </div></center>
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: white;">
+        <a class="navbar-brand" href="#"><img src="./resources/images/logo.gif" alt="logo" width="150px"></a>
+        <button style="background-color: white;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup" style="background-color: white;">
+          <div class="navbar-nav">
+            <a id="nav-left" class="nav-item nav-link active" href="./home.html" target="_self">Home <span class="sr-only">(current)</span></a>
+            <a id="nav-left" class="nav-item nav-link" href="./menu.html" target="_self">Menu</a>
+            <a id="nav-right" class="nav-item nav-link" href="login.html" target="_self">Sign in | Register</a>
+            <!-- <a id="nav-right" class="nav-item nav-link" href="#">About Us</a> -->
+          </div>
+        </div>
+      </nav>
+    </div>  
+</header>
+<body data-bs-spy="scroll" data-bs-offset="15" data-bs-target="#myScrollspy">
+    <div class="container-fluid" >
+        <center><div style="border: 2px black solid; background-color: black;height: 100px; color: white;font-weight: bold;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+            <br><br> LET'S ORDER FOR DELIVERY, PICK UP, OR DINE-IN
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="button-contained" type="submit">Start Order</button>
+        </div></center>
+        <div id="head-low"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    </div>
+
+
+    <!-- Carousel -->
+    <!-- ---------------------------------------------------------------------------------------------- -->
+    <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="margin-top: 100px;position: relative;">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="./resources/images/carosal1 (2).jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="./resources/images/carosal1 (1).jpg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="./resources/images/carosal1 (3).jpg" alt="Third slide">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div> -->
+    <div class="container-fluid">
+        <div class="bg-image"></div>
+        <div class="bg-text">
+        <h1>WELCOME TO OTAKUKULTURE!</h1>
+    </div></div>
+
+
+      <!-- Scroll Spy -->
+      <div class="container-fluid">
+        <div style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-weight: bolder;font-size: 40px; margin-top: 5%;">
+            OTAKU MENU
+        </div>
+      <div class="row" style="margin-top: 5%;">
+        <div class="col-4">
+            <div id="list-example" class="list-group">
+                <a class="list-group-item
+                    list-group-item-action" href="#list-item-1">
+                    RICE BOWLS
+                </a>
+                <a class="list-group-item
+                    list-group-item-action" href="#list-item-2">
+                    RAMEN
+                </a>
+                <a class="list-group-item list-group-item-action"
+                    href="#list-item-3">
+                    STEW
+                </a>
+                <a class="list-group-item
+                    list-group-item-action" href="#list-item-4">
+                    DESSERTS AND SWEETS
+                </a>
+                <a class="list-group-item
+                    list-group-item-action" href="#list-item-5">
+                    TEA & DRINKS
+                </a>
+                <a class="list-group-item
+                    list-group-item-action" href="#list-item-6">
+                    NOODLES
+                </a>
+                <a class="list-group-item list-group-item-action"
+                    href="#list-item-7">
+                    BREAD
+                </a>
+            </div>
+        </div>
+        <div class="col-8 text-bg-success">
+            <div data-bs-spy="scroll"
+                data-bs-target="#list-example"
+                data-bs-smooth-scroll="true"
+                class="scrollspy-example" tabindex="0">
+                <h4 id="list-item-1">RICE BOWLS</h4>
+                <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src= "https://img.freepik.com/free-photo/indian-butter-chicken-black-bowl-black-background_123827-20761.jpg?w=996&t=st=1677785936~exp=1677786536~hmac=13063ca74c454f2d91550777dfce5d1b8a69bffa49be73571aa90c7231163300" class="card-img-top" alt="Katsudon" width="100px" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title">Katsudon</h5>
+                                <p class="text-muted mb-4">RICE BOWL</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>Katsudon is a fried, panko-breaded pork cutlet with egg over rice and a favorite of Japanese restaurant-goers.</span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$1.90</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off" onclick="myFunction('Katsudon',1.90)">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://img.freepik.com/premium-photo/oyakodon-chicken-egg-bowl-japanese-food-close-view_645691-1603.jpg?w=1060"
+                                class="card-img-top" alt="Oyakodon" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Oyakodon</h5>
+                                  <p class="text-muted mb-4">RICE BOWL</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Oyakodon is a classic comfort food of Japanese home cooking. Tender pieces of chicken, onions, and eggs.</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.50</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          </div>
+                        </div>
+                  </section>
+                <h4 id="list-item-2">RAMEN</h4>
+                <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src="https://img.freepik.com/free-photo/japanese-cuisine-delicious-tempura-prawn-udon-noodles_1205-12289.jpg?w=1060&t=st=1677786211~exp=1677786811~hmac=16d89bdb641db0057bd1aee087e59fe4a602dcd6449af8a2ba11e2ef186627c9"
+                              class="card-img-top" alt="Apple Computer" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title">Prawn Ramen </h5>
+                                <p class="text-muted mb-4">RAMEN</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>Shrimp Ramen Soup is so much better than that packet of noodles!! Packed with vegetables, shrimp, and full of flavor!</span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$2.00</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off" onclick="myFunction('Prawn Ramen ',2.00)">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://c1.wallpaperflare.com/preview/309/387/688/ramen-miso-boiled-egg-miso-ramen.jpg"
+                                class="card-img-top" alt="Miso Soup ramen" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Miso Ramen</h5>
+                                  <p class="text-muted mb-4">RAMEN</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Made from miso along with chicken stock, vegetables, and ground pork</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.99</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Miso Ramen',1.99)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://img.freepik.com/free-photo/delicious-ramen-dark-surface_1150-41971.jpg?w=1060&t=st=1677787094~exp=1677787694~hmac=7b10525fa23a32460788e7a1a46a00693f52fa1ae817d8272bce391285ed82f5"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Tonketsu Ramen</h5>
+                                  <p class="text-muted mb-4">RAMEN</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Made from miso along with chicken stock, vegetables, and ground pork</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.00</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Tonketsu Ramen',1.00)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://img.freepik.com/free-photo/japanese-seafood-ramen-with-cuttlefish-sauce_1205-9383.jpg?w=1060&t=st=1677787179~exp=1677787779~hmac=665eee7f673a35875c1b1c2ec13e7f27a80561da771e08b2921d95f5b5419414"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Shoyu Ramen</h5>
+                                  <p class="text-muted mb-4">RAMEN</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>made from miso along with chicken stock, vegetables, and ground pork</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$2.00</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Shoyu Ramen',2.00)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          </div>
+                        </div>
+                  </section>
+                <h4 id="list-item-3">STEW</h4>
+                <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src="https://cdn.tasteatlas.com//Images/Dishes/b84a89c346ad45a5a40fa33f6265475e.jpg?w=905&h=510"
+                              class="card-img-top" alt="Apple Computer" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title">Nikujaga</h5>
+                                <p class="text-muted mb-4">STEW</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>Nikujaga is a Japanese dish consisting of meat (niku) and potatoes (jagaimo) as its main ingredients.</span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$1.89</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off" onclick="myFunction('Nikujaga',1.89)">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://cdn.tasteatlas.com//images/dishes/3cbb3969462848a19cfbf93573dcf64d.jpg?w=905&h=510"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Kare raisu</h5>
+                                  <p class="text-muted mb-4">STEW</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Japanese curry is an extremely popular dish throughout Japan. Since the curry is almost always served with rice, one can hear the term karē raisu mentioned very often.</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$2.09</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://cdn.tasteatlas.com//Images/Dishes/b38dd9e0a136425db77ad5b124bec90f.jpg?w=905&h=510"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Kare udon</h5>
+                                  <p class="text-muted mb-4">STEW</p>
+                                </div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Curry udon consists of thick Japanese noodles made from wheat flour, served in a bowl of Japanese curry.</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.89</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          </div>
+                        </div>
+                  </section>
+                <h4 id="list-item-4">DESSERTS AND SWEETS</h4>
+                <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src="https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/daifuku.jpg"
+                              class="card-img-top" alt="Apple Computer" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title"> Black Sesame Cookies</h5>
+                                <p class="text-muted mb-4">DESSERTS AND SWEETS</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>These Black Sesame Cookies are buttery, nutty, crisp and so addicting. </span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$2.00(pack of 10 pieces)</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/mochi.jpg"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Mochi</h5>
+                                  <p class="text-muted mb-4">DESSERTS AND SWEETS</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>A traditional Japanese dessert, it has a versatile taste made from special sticky rice called mochi gome.</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.00</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/dango.jpg"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Dango</h5>
+                                  <p class="text-muted mb-4">DESSERTS AND SWEETS</p>
+                                </div>
+                                <div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Dango can be filled, grilled or dipped into a sweet sauce, but they are often skewered.</span>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.00</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          </div>
+                        </div>
+                  </section>
+                  <h4 id="list-item-5">TEA & DRINKS</h4>
+                  <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src="https://img.freepik.com/premium-photo/closeup-green-tea-black-bamboo-table_681987-3579.jpg?w=1060"
+                              class="card-img-top" alt="Apple Computer" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title">Japan Green Tea</h5>
+                                <p class="text-muted mb-4">TEA & DRINKS</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>Japanese teas are produced from the leaves of camellia sinensis, the same plant from which black, oolong, white, and purple teas are made.</span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$2.09</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off" onclick="myFunction('Oyakodon',1.50)">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                          </div>
+                        </div>
+                  </section>
+                  <h4 id="list-item-6">NOODLES</h4>
+                  <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src="https://c0.wallpaperflare.com/preview/567/453/120/udon-noodles-japanese-dining-cooking.jpg"
+                              class="card-img-top" alt="Apple Computer" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title">Udon</h5>
+                                <p class="text-muted mb-4">NOODLES</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>Udon is also popular for use in various nabe 鍋 dishes. In Nagoya, the noodles are simmered in miso soup for miso-nikomi udon.</span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$1.90</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="card text-black">
+                              <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                              <img src="https://c1.wallpaperflare.com/preview/142/252/923/soba-noodles-near-buckwheat-japanese-food.jpg"
+                                class="card-img-top" alt="Apple Computer" />
+                              <div class="card-body">
+                                <div class="text-center">
+                                  <h5 class="card-title">Soba</h5>
+                                  <p class="text-muted mb-4">NOODLES</p>
+                                </div>
+                                  <div class="d-flex justify-content-between">
+                                    <span>Soba is traditionally eaten on New Year’s Eve in Japan, a tradition that is practiced to this day in most of Japan.</span>
+                                  </div>
+                                </div>
+                                <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                  <span>Total</span><span>$1.98</span>
+                                </div>
+                                <br>
+                                <center>
+                                <div class="btn-group-toggle" data-toggle="buttons">
+                                  <label class="btn btn-secondary active">
+                                    <input type="checkbox" checked autocomplete="off">ADD TO CART
+                                  </label>
+                                </div>
+                              </center>
+                              </div>
+                            </div>
+                          </div>
+                          </div>
+                  </section>
+                  <h4 id="list-item-7">BREADS</h4>
+                  <section style="background-color: #eee;">
+                    <div class="container py-5">
+                      <div class="row justify-content-center">
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="card text-black">
+                            <!-- <i class="fab fa-apple fa-lg pt-3 pb-1 px-3"></i> -->
+                            <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/not-available-2685170-2232747.png
+                              class="card-img-top" alt="Apple Computer" />
+                            <div class="card-body">
+                              <div class="text-center">
+                                <h5 class="card-title">Wheat Bread </h5>
+                                <p class="text-muted mb-4">BREADS</p>
+                              </div>
+                              <div>
+                                <div class="d-flex justify-content-between">
+                                  <span>Product not available</span>
+                                </div>
+                              </div>
+                              <div class="d-flex justify-content-between total font-weight-bold mt-4">
+                                <span>Total</span><span>$0.00</span>
+                              </div>
+                              <br>
+                              <center>
+                              <div class="btn-group-toggle" data-toggle="buttons">
+                                <label class="btn btn-secondary active">
+                                  <input type="checkbox" checked autocomplete="off">ADD TO CART
+                                </label>
+                              </div>
+                            </center>
+                            </div>
+                          </div>
+                        </div>
+                          </div>
+                        </div>
+                  </section>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+            <div style="text-align: center; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-weight: bolder;font-size: 40px; margin: top 100px;;">
+                My Cart
+            </div>
+            <center><div id="#table">
+    <table id="table-body" class="table">
+        <thead>
+            <tr>
+                <th scope="col">Product Name</th>
+                <th scope="col">Product Price(dollars)</th>
+              </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <td id="total">Total</td>
+            
+                <td>
+                    <button class="btn btn-dark" onclick="alert('Arigato! your order will be delivered in the meantime')">Submit</button>
+                </td>
+                <td>
+                    <button class="btn btn-dark" onclick="clears()">Clear</button>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div></center>
+</div>
+</body>
+<footer class="bg-black text-center text-white" style="background: black;">
+    <!-- Grid container -->
+    <div class="container p-4">
+      <!-- Section: Social media -->
+      <section class="mb-4">
+        <!-- Facebook -->
+        <!-- <button type="button" class="btn btn-light"><span class="bi bi-facebook"></span></button> -->
+        <a href="#"><i class="fa fa-facebook"></i></a>
+        <a href="#"><i class="fa fa-twitter"></i></a>
+        <a href="#"><i class="fa fa-linkedin"></i></a>
+        <a href="#"><i class="fa fa-google-plus"></i></a>
+        <a href="#"><i class="fa fa-skype"></i></a>
+      </section>
+      <section class="">
+        <form action="">
+          <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+              <p class="pt-2">
+                <strong>Sign up for our newsletter</strong>
+              </p>
+            </div>
+            <div class="col-md-5 col-12">
+              <div class="form-outline form-white mb-4">
+                <input type="email" id="form5Example21" class="form-control" />
+                <label class="form-label" for="form5Example21">Email address</label>
+              </div>
+            </div>
+            <div class="col-auto">
+              <button type="submit" class="btn btn-outline-light mb-4">
+                Subscribe
+              </button>
+            </div>
+          </div>
+        </form>
+      </section>
+      <section class="mb-4">
+        <p>
+            OtakuKulture pushes the envelope of Japanese cuisine. Taking its influences from our team members’ culinary roots, OtakuKulture blends traditional and innovative techniques to create unique offerings using local ingredients in all of its dishes. OtakuKulture is grounded in hospitality with our staff’s commitment to providing you with a memorable experience each time you walk through our door.
+        </p>
+      </section>
+    </div>
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0);">
+      © 2023 Copyright:
+      <a class="text-white">otakukulture.in</a>
+    </div>
+  </footer>
+</html>

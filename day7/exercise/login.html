@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function(){
+                $("input").blur(function(){
+                    var name = $("#textName").val()
+                    var password = $("#textPassword").val()
+                    let borderColor = ""
+                    let borderColor1 = ""
+                    name == "" ? borderColor = "red" : borderColor = "cyan"
+                    password == "" ? borderColor1 = "red" : borderColor1 = "cyan"
+                    $("#textName").css("border-color" , borderColor)
+                    $("#textPassword").css("border-color" , borderColor1)
+                    // borderColor == "red" ? alert("Name or Password cannot be empty!"):
+                })
+                $("#submit").click(function(){
+                    var USERNAME = "Naruto"
+                    var PASSWORD = "Hinata"
+                    var name = $("#textName").val()
+                    var password = $("#textPassword").val()
+
+                    name == USERNAME && password == PASSWORD ? alert("Congratulations! You're logged in! ") : alert("stfu! you simppp!!!")
+                })
+
+            })
+            
+        </script>
+    </head>
+
+    <body>
+        <div>
+            <label >Name </label><br><br>
+            <input type="text" id="textName" placeholder="Enter your name"><br><br>
+            <label >Password </label><br><br>
+            <input type="password" id="textPassword" placeholder="Enter your password"><br><br>
+            <button type="submit" id="submit">submit</button>
+            <button type="reset">cancel</button>
+
+        </div>
+    </body>
+</html>

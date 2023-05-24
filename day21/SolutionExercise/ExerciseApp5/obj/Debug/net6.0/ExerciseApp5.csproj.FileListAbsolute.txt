@@ -1,0 +1,15 @@
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\bin\Debug\net6.0\ExerciseApp5.exe
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\bin\Debug\net6.0\ExerciseApp5.deps.json
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\bin\Debug\net6.0\ExerciseApp5.runtimeconfig.json
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\bin\Debug\net6.0\ExerciseApp5.dll
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\bin\Debug\net6.0\ExerciseApp5.pdb
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.csproj.AssemblyReference.cache
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.AssemblyInfoInputs.cache
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.AssemblyInfo.cs
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.dll
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\refint\ExerciseApp5.dll
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.pdb
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ExerciseApp5.genruntimeconfig.cache
+D:\Kanini_training\day21\SolutionExercise\ExerciseApp5\obj\Debug\net6.0\ref\ExerciseApp5.dll

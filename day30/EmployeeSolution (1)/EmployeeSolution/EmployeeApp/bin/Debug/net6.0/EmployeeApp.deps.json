@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmployeeApp/1.0.0": {
+        "dependencies": {
+          "EmployeeBALibrary": "1.0.0",
+          "EmployeeDALLibrary": "1.0.0",
+          "EmployeeModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeApp.dll": {}
+        }
+      },
+      "EmployeeBALibrary/1.0.0": {
+        "dependencies": {
+          "EmployeeDALLibrary": "1.0.0",
+          "EmployeeModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeBALibrary.dll": {}
+        }
+      },
+      "EmployeeDALLibrary/1.0.0": {
+        "dependencies": {
+          "EmployeeModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeDALLibrary.dll": {}
+        }
+      },
+      "EmployeeModelLibrary/1.0.0": {
+        "runtime": {
+          "EmployeeModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeBALibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

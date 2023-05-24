@@ -1,0 +1,12 @@
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\bin\Debug\net6.0\UserModelLibrary.deps.json
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\bin\Debug\net6.0\UserModelLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\bin\Debug\net6.0\UserModelLibrary.pdb
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.AssemblyInfo.cs
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\refint\UserModelLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\UserModelLibrary.pdb
+D:\Kanini_training\day34\UserLoginSolution\UserModelLibrary\obj\Debug\net6.0\ref\UserModelLibrary.dll

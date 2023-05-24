@@ -1,0 +1,15 @@
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\bin\Debug\net6.0\XMLtoLINQApp.exe
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\bin\Debug\net6.0\XMLtoLINQApp.deps.json
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\bin\Debug\net6.0\XMLtoLINQApp.runtimeconfig.json
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\bin\Debug\net6.0\XMLtoLINQApp.dll
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\bin\Debug\net6.0\XMLtoLINQApp.pdb
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.AssemblyInfo.cs
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.dll
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\refint\XMLtoLINQApp.dll
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.pdb
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\XMLtoLINQApp.genruntimeconfig.cache
+D:\Kanini_training\day34\XMLLINQSolution\XMLtoLINQApp\obj\Debug\net6.0\ref\XMLtoLINQApp.dll

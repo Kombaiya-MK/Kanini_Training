@@ -1,0 +1,5 @@
+-> Delegates -- reference to a method
+{
+	-> Anonymous method.
+	-> Lambda Expression.
+}

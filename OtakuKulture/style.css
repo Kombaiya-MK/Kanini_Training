@@ -1,0 +1,123 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+
+#Flash{
+    /* border: 1px gray dashed; */
+    /* height: 40px;
+    padding: 4px; */
+    border-bottom: 0.1% solid ;
+    border-color: gray;
+    opacity: 0.5;
+    width: 100%;
+}
+
+button{
+    width: 110px;
+    border-radius: 20px;
+    font-weight: bold;
+
+}
+#loc{
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header{
+    padding: 4px;
+    position: sticky;
+    top:0;
+    z-index: 100;
+    /* left: -10px; */
+    height: 125px;
+    width: 100%;
+    background-color: white;
+}
+
+
+/* .navbar-brand{
+    position: relative;
+    left: 600px;
+}
+
+ #nav-left{
+    position: relative;
+    margin-left: 50px;
+    left: -100px;
+}  */
+/* #head-low{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+} */
+#nav-right{
+    position: relative;
+    /* left:900px; */
+}
+
+.button-contained {
+    background-color: #e4002b;
+    color: #fff;
+}
+/* @import url(https://fonts.google.com/specimen/Fjalla+One); */
+
+.card{
+    border: none;
+}
+.card-group{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+}
+
+.card-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .zoom {
+    padding: 50px;
+    transition: transform .5s;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5); 
+  }
+
+  footer {
+    background: #061D25;
+    padding: 10px 0;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  footer a {
+    color: #70726F;
+    font-size: 20px;
+    padding: 10px;
+    /* border-right: 1px solid #70726F; */
+    transition: all .5s ease;
+  }
+
+  footer a:hover {
+    color: white;
+  }
+  a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }

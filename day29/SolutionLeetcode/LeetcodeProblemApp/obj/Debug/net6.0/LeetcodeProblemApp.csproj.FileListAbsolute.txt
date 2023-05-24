@@ -1,0 +1,15 @@
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\bin\Debug\net6.0\LeetcodeProblemApp.exe
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\bin\Debug\net6.0\LeetcodeProblemApp.deps.json
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\bin\Debug\net6.0\LeetcodeProblemApp.runtimeconfig.json
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\bin\Debug\net6.0\LeetcodeProblemApp.dll
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\bin\Debug\net6.0\LeetcodeProblemApp.pdb
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.AssemblyInfo.cs
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.dll
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\refint\LeetcodeProblemApp.dll
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.pdb
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\LeetcodeProblemApp.genruntimeconfig.cache
+D:\Kanini_training\day29\SolutionLeetcode\LeetcodeProblemApp\obj\Debug\net6.0\ref\LeetcodeProblemApp.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientationAPP", "ObjectOrientationAPP\ObjectOrientationAPP.csproj", "{35D1463A-B0A4-49FC-BA1A-97634BBDB3BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaModelLibrary", "..\..\day23\SolutionPizza\PizzaModelLibrary\PizzaModelLibrary.csproj", "{7646B04F-CD53-4368-B4CE-ADCB532592BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D1463A-B0A4-49FC-BA1A-97634BBDB3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D1463A-B0A4-49FC-BA1A-97634BBDB3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D1463A-B0A4-49FC-BA1A-97634BBDB3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D1463A-B0A4-49FC-BA1A-97634BBDB3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7646B04F-CD53-4368-B4CE-ADCB532592BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7646B04F-CD53-4368-B4CE-ADCB532592BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7646B04F-CD53-4368-B4CE-ADCB532592BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7646B04F-CD53-4368-B4CE-ADCB532592BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F57B504-1EE4-4574-BB76-8F8006774A98}
+	EndGlobalSection
+EndGlobal

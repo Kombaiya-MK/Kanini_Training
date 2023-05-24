@@ -1,0 +1,12 @@
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\bin\Debug\net6.0\CowBullModelLibrary.deps.json
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\bin\Debug\net6.0\CowBullModelLibrary.dll
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\bin\Debug\net6.0\CowBullModelLibrary.pdb
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.AssemblyInfo.cs
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.dll
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\refint\CowBullModelLibrary.dll
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\CowBullModelLibrary.pdb
+D:\Kanini_training\28Apr2023\CowBullGameSolution\CowBullModelLibrary\obj\Debug\net6.0\ref\CowBullModelLibrary.dll

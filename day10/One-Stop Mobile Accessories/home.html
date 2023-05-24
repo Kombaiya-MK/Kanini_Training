@@ -1,0 +1,89 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./script.js"></script>
+    <title>One-Stop Mobile Accessories</title>
+    <style>
+        body{
+            background-color: blue;
+            color: blue;
+        }
+        div{
+            border: 2px thin black ;
+            background-color: white;
+            border-radius: 10px;
+            margin: 20px;
+        }
+        table , tr , td  {
+            border: 2px solid blue;
+            border-radius: 10px;
+            margin-left: 20px;
+            text-align: center;
+            border-collapse: separate;
+            margin-bottom: 10px;
+        }
+        button{
+            background-color: gray;
+            color: blue;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body><center>
+    <div>
+    <center><h3 style="text-align: center;">One-Stop Mobile Accessories</h3></center>
+        
+        <table>
+            
+            <tr><td><h4 style="text-align: center;"></h4>Personal Details</h4></td></tr>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" id="name"></td>
+            </tr>
+            <tr>
+                <td>Phone Number</td>
+                <td><input type="tel" id="phoneNumber" pattern="[0-9]"></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="email" id="emailId"></td>
+            </tr>
+            <tr>
+                <td>Delivery Address</td>
+                <td><textarea id="address" cols="50" rows="4" placeholder="Enter your Address" value = ""></textarea></td>
+            </tr>
+            <tr>
+                <th><center>Combo Offers(Save upto Rs.400 on each combo !!)</center></thl>
+            </tr>
+            <tr>   
+                <td><input type="checkbox" id="option1">SanDisk 32GB micro SDHC Memory Card + iXCC Micro-USB cable</td>
+                <td>Rs 799/- only</td>
+            </tr>
+            <tr>   
+                <td><input type="checkbox" id="option2">Sandisk Cruzer Blade 32 GB Pen Drive + Samsung Type B15W Travel Adaptor</td>
+                <td>Rs 899/- only</td>
+            </tr>
+            <tr>   
+                <td><input type="checkbox" id="option3">Sony WF-1000XM3 Head Phone + SanDisk 16GB micro SDHC Memory Card</td>
+                <td>Rs 1199/- only</td>
+            </tr>
+            <tr>   
+                <td><input type="checkbox" id="option4">Mpow Car Phone Mount + Zebroni 1 Amp Turbo Car Mobile Charger</td>
+                <td>Rs 299/- only</td>
+            </tr>
+            <tr>   
+                <td><input type="checkbox" id="option5">Tribit XSound Go Bluetooth Speaker + Mpow Car Phone Mount</td>
+                <td>Rs 999/- only</td>
+            </tr>
+        </table>
+    </div></center>
+
+    <center><button onclick="costCalculation()">Place Order</button></center>
+</body>
+</html>

@@ -1,0 +1,15 @@
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.exe
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.deps.json
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.runtimeconfig.json
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.dll
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.pdb
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.AssemblyInfo.cs
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.dll
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\refint\DoctorClinicApp.dll
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.pdb
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.genruntimeconfig.cache
+D:\Kanini_training\day20\SolutionDoctorClinic\DoctorClinicApp\obj\Debug\net6.0\ref\DoctorClinicApp.dll

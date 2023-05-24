@@ -1,0 +1,34 @@
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeBALibrary.deps.json
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeBALibrary.dll
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeBALibrary.pdb
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeDALLibrary.dll
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeModelLibrary.dll
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeDALLibrary.pdb
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeModelLibrary.pdb
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.csproj.AssemblyReference.cache
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.AssemblyInfoInputs.cache
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.AssemblyInfo.cs
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.csproj.CoreCompileInputs.cache
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.csproj.CopyComplete
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.dll
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\refint\EmployeeBALibrary.dll
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.pdb
+D:\KANINI\.NET\CRUD\Collection\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\ref\EmployeeBALibrary.dll
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeBALibrary.deps.json
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeBALibrary.dll
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeBALibrary.pdb
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeDALLibrary.dll
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeModelLibrary.dll
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeDALLibrary.pdb
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\bin\Debug\net6.0\EmployeeModelLibrary.pdb
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.AssemblyInfo.cs
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.csproj.CopyComplete
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.dll
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\refint\EmployeeBALibrary.dll
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\EmployeeBALibrary.pdb
+D:\Kanini_training\day30\EmployeeSolution (1)\EmployeeSolution\EmployeeBALibrary\obj\Debug\net6.0\ref\EmployeeBALibrary.dll

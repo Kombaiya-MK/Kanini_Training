@@ -1,0 +1,15 @@
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\bin\Debug\net6.0\IndexerApp1.exe
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\bin\Debug\net6.0\IndexerApp1.deps.json
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\bin\Debug\net6.0\IndexerApp1.runtimeconfig.json
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\bin\Debug\net6.0\IndexerApp1.dll
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\bin\Debug\net6.0\IndexerApp1.pdb
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.csproj.AssemblyReference.cache
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.AssemblyInfoInputs.cache
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.AssemblyInfo.cs
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.dll
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\refint\IndexerApp1.dll
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.pdb
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\IndexerApp1.genruntimeconfig.cache
+D:\Kanini_training\day22\SolutionIndexer\IndexerApp1\obj\Debug\net6.0\ref\IndexerApp1.dll

@@ -1,0 +1,8 @@
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\bin\Debug\GreatestApp.exe.config
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\bin\Debug\GreatestApp.exe
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\bin\Debug\GreatestApp.pdb
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.csproj.SuggestedBindingRedirects.cache
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.exe
+D:\Kanini_training\day19\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.pdb

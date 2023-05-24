@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <strong style="font-size:20px; text-align:center;"></style>Financial Information</strong>
+        <link rel="stylesheet" href="./style.css">
+        <header>
+                AOT Bank
+        </header> 
+        <script src="./script.js"></script>
+    </head>
+    <body>
+        <form id="">
+            <br><br><label>Yearly Income</label>&emsp14;&emsp14;&emsp14;
+            <input type="number" id="txtincome" required><br/><br>
+            <label>Monthly Allowance</label>&emsp14;&emsp14;&emsp14;
+            <input type="number" id="allowance" required><br><br>
+            <label>Salaried</label>&emsp14;&emsp14;&emsp14;
+            <input type="radio" id="Yes" name="Salaried" value="Yes"/>
+            <label for="Yes">Yes</label>
+            <input type="radio" id="No" name="Salaried" value="No"/>
+            <label for="Others">No</label><br/><br>
+            <label> Previous loan details</label>&emsp14;&emsp14;&emsp14;
+            <input type="text" id="loandetails" required><br><br><br><br>
+            <a class="fcc-btn" href="./basicinfo.html">Back</a>&emsp14;&emsp14;&emsp14;
+            <button onclick="addFinancialInfo()" class="fcc-btn"> Submit</button>&emsp14;&emsp14;&emsp14;
+            <a class="fcc-btn" href="./loanrequirements.html">Next</a>
+        </form>
+    </body>
+</html>

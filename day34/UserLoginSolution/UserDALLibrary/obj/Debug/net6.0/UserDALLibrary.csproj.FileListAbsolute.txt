@@ -1,0 +1,17 @@
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\bin\Debug\net6.0\UserDALLibrary.deps.json
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\bin\Debug\net6.0\UserDALLibrary.runtimeconfig.json
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\bin\Debug\net6.0\UserDALLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\bin\Debug\net6.0\UserDALLibrary.pdb
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\bin\Debug\net6.0\UserModelLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\bin\Debug\net6.0\UserModelLibrary.pdb
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.AssemblyInfo.cs
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.csproj.CopyComplete
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\refint\UserDALLibrary.dll
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.pdb
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\UserDALLibrary.genruntimeconfig.cache
+D:\Kanini_training\day34\UserLoginSolution\UserDALLibrary\obj\Debug\net6.0\ref\UserDALLibrary.dll

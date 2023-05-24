@@ -1,0 +1,15 @@
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\bin\Debug\net6.0\UnderstandingCollectionsApp.exe
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\bin\Debug\net6.0\UnderstandingCollectionsApp.deps.json
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\bin\Debug\net6.0\UnderstandingCollectionsApp.runtimeconfig.json
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\bin\Debug\net6.0\UnderstandingCollectionsApp.dll
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\bin\Debug\net6.0\UnderstandingCollectionsApp.pdb
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.AssemblyInfo.cs
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.dll
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\refint\UnderstandingCollectionsApp.dll
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.pdb
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\UnderstandingCollectionsApp.genruntimeconfig.cache
+D:\Kanini_training\day27\SolutionCollections\UnderstandingCollectionsApp\obj\Debug\net6.0\ref\UnderstandingCollectionsApp.dll

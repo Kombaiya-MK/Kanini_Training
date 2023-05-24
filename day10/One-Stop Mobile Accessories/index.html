@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-Stop Mobile Accessories</title>
+    <style>
+        body {
+            background-color: rgb(14, 14, 114);
+            font-weight: bold;
+        }
+
+        h3 {
+            color: #ffffff;
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        table,
+        tr,
+        td {
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            border: 2px solid;
+            border-color: #08088A;
+            padding: 7px;
+            color: #08088A;
+            background-color: #ffffff;
+        }
+
+        #order {
+            color: #08088A;
+            margin-left: 45%;
+            margin-right: auto;
+            font-weight: bold;
+        }
+
+        #result {
+            color: #ffffff;
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .title {
+            color: #08088A;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="head">
+        <h3>One-Stop Mobile Accessories</h3>
+    </header>
+    <form>
+        <table>
+            <tr>
+                <td class="title">Personal Details</td>
+            </tr>
+
+        </table>
+
+
+        <table>
+            <tr>
+                <td><label for="name">Name</label></td>
+                <td><input type="text" id="name" pattern="[a-zA-Z\s]+" required style="width: 98%;"></td>
+            </tr>
+            <tr>
+                <td><label for="phone">Phone Number</label></td>
+                <td><input type="tel" id="phoneNumber" pattern="[789]\d{9}" required style="width: 98%;"></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td><input type="email" id="emailID" required style="width: 98%;"></td>
+            </tr>
+            <tr>
+                <td><label for="address">Delivery Address</label></td>
+                <td><textarea id="address" rows="4" cols="50" required></textarea></td>
+            </tr>
+        </table>
+
+
+        <table>
+            <tr>
+                <td class="title">Combo Offers (Save upto Rs.400 on each combo!!)</td>
+            </tr>
+        </table>
+
+        <table>
+            <tr>
+                <td>
+                    <input type="checkbox" id="combo1" name="comboOffers"
+                        value="799">
+                    <label for="combo1">SanDisk 32GB micro SDHC Memory Card + iXCC MicroUSB cable</label>
+                </td>
+                <td><label for="combo1">Rs 799/- only</label></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" id="combo2" name="comboOffers"
+                        value="899">
+                    <label for="combo2">Sandisk Cruzer Blade 32 GB Pen Drive + Samsung Type B 15W TravelAdaptor</label>
+                </td>
+                <td><label for="combo2">Rs 899/- only</label></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" id="combo3" name="comboOffers"
+                        value="1199">
+                    <label for="combo3">Sony WF-1000XM3 Head Phone + SanDisk 16GB micro SDHC Memory Card</label>
+                </td>
+                <td><label for="combo3">Rs 1199/- only</label></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" id="combo4" name="comboOffers"
+                        value="299">
+                    <label for="combo4">Mpow Car Phone Mount + Zebroni 1 Amp Turbo Car Mobile Charger</label>
+                </td>
+                <td><label for="combo4">Rs 299/- only</label></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" id="combo5" name="comboOffers"
+                        value="999">
+                    <label for="combo5">Tribit XSound Go Bluetooth Speaker + Mpow Car Phone Mount</label>
+                </td>
+                <td><label for="combo5">Rs 999/- only</label></td>
+
+            </tr>
+
+        </table>
+
+        <table>
+            <tr>
+                <td class="title">* Enjoy 20% discount on purchasing combos worth 2000 and above !!</td>
+            </tr>
+
+        </table>
+
+        <div class="submit">
+            <input type="submit" value="PLACE ORDER" id="order" onclick="results()" >
+            <div id="result"></div>
+        </div>
+    </form>
+
+
+    
+    <script>      
+        function results() {
+            const var1 = document.getElementById('combo1');
+            const var2 = document.getElementById('combo2');
+            const var3 = document.getElementById('combo3');
+            const var4 = document.getElementById('combo4');
+            const var5 = document.getElementById('combo5');
+
+            const val1 = parseInt(var1.value);
+            const val2 = parseInt(var2.value);
+            const val3 = parseInt(var3.value);
+            const val4 = parseInt(var4.value);
+            const val5 = parseInt(var5.value);
+           
+
+            // console.log(total);
+            const discount20 = 0.20;
+            var total = 0;
+            if (var1.checked) {
+                total+=val1;
+                document.getElementById('result').innerHTML = total;           
+            }
+            if (var2.checked) {
+                total+=val2;
+                document.getElementById('result').innerHTML = total;           
+            }
+            if (var3.checked) {
+                total+=val3;
+                document.getElementById('result').innerHTML = total;           
+            }
+            if (var4.checked) {
+                total+=val4;
+                document.getElementById('result').innerHTML = total;           
+            }
+            if (var5.checked) {
+                total+=val5;
+                document.getElementById('result').innerHTML = total;           
+            }
+
+            if (total>=2000){
+                var final = total * discount20;
+                var res = total - final;
+                document.getElementById('result').innerHTML = 'Order has been placed successfully. You are requested to pay Rs. '+ Math.round(res) +' on delivery.' ;
+            }
+            else{
+                if(total==0){
+                    document.getElementById('result').innerHTML = 'No selection has been made.'
+                }else{
+                    document.getElementById('result').innerHTML = 'Order has been placed successfully. You are requested to pay Rs. '+ Math.round(total) +' on delivery.' ;
+
+                }
+                
+            }
+        }
+        
+    </script>
+
+</body>
+
+</html>

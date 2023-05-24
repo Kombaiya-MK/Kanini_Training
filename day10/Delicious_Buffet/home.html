@@ -1,0 +1,129 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Buffet Restaurant</title>
+    <style>
+        body{
+            background-color: #9370DB;
+            justify-content: center;
+            font-weight: bolder;
+        }
+        h1{
+            color: #FFFFFF ;
+            font:arial;
+            background-color:#FF6347 ;
+            text-align: center;
+            text-decoration: solid;
+        }
+        input{
+            left: 500px;
+        }
+        #t1{
+            border: 1px solid black;
+            background-color: #FF6347;
+            margin-left: 500px;
+            position: relative;
+        }
+        label{
+            margin-left: 20px;
+        }
+        input{
+            margin-left: 500px;
+        }
+        button{
+            margin-left: 100px;
+            font-weight: bold;
+            font-family: bahnschrift;
+            background-color: "#FFDEAD";
+            width: 13em;
+            height: 35px;
+            text-align: center;
+        }
+        /* div{
+            font-weight: bold;
+            font-family: bahnschrift;
+            font-size: 24px;
+            background-color: "#FFDEAD";
+            width: 13em;
+            height: 35px;
+            text-align: center;
+            color: "#800000";
+        } */
+    </style>
+    <script src="./script.js">
+    </script>
+</head>
+<body>
+    <h1><i>Delicious Buffet Restaurant</i></h1> 
+    <form onsubmit="return false" >
+        
+        <label>Customer Name</label>
+        <input type="text" id="customerName" placeholder="Enter your name" style="position: absolute; left: 0px;" required><br><br>
+        <label>Contact No</label>
+        <input type="tel" id="contactNo" placeholder="Enter your mobile number" style="position: absolute; left: 0px;" required><br><br>
+        <label>Date</label>
+        <input type="date" id="bookingDate" style="position: absolute; left: 0px;"><br><br>
+        <label>Timings</label>
+    <table id="t2">
+        <tr>
+        <td><input type="radio" id="session1" value="session1" name="Timings"></td>
+        <td><label for="session1">1-4pm</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="session2" value="session2" name="Timings"></td>
+        <td><label for="session2">4-7pm</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="session3" value="session3" name="Timings"></td>
+        <td><label for="session3">7-10pm</label></td>
+    </tr>
+    </table>
+    <br><br>
+        <label>Vegetarian</label>
+        <table id="t1" style="width: 50;">
+            <tr>
+                <td>Adult</td>
+                <td><input type="number" id="vegAdult" min="0" placeholder="Enter number of Vegetarian adults"></td>
+            </tr>
+            <tr>
+                <td>Kids(5-9 yrs)</td>
+                <td><input type="number" id="vegKids" min="0" placeholder="Enter number of Vegetarian Kids"></td>
+            </tr>
+        </table><br><br>
+        <!-- <input type="number" id="vegAdult" min="0" placeholder="Enter number of Vegetarian adults"><br><br>
+        <input type="number" id="vegKids" min="0" placeholder="Enter number of Vegetarian Kids"><br><br> -->
+        <label>Non-Vegetarian</label>
+        <table id="t1" style="width: 50;">
+            <tr>
+                <td>Adult</td>
+                <td><input type="number" id="nonVegAdult" min="0" placeholder="Enter number of Non-Vegetarian adults"></td>
+            </tr>
+            <tr>
+                <td>Kids(5-9 yrs)</td>
+                <td><input type="number" id="nonVegKids" min="0" placeholder="Enter number of Non-Vegetarian Kids"></td>
+            </tr>
+        </table><br><br>
+
+        <!-- <input type="number" id="nonVegAdult" min="0" placeholder="Enter number of Non-Vegetarian adults"><br><br>
+        <input type="number" id="nonVegKids" min="0" placeholder="Enter number of Non-Vegetarian Kids"><br><br> -->
+        <label>Occasion</label>
+        <input list="occasions" name="occasion" id="occasion" style="position: absolute; left: 0px;">
+
+        <datalist id="occasions">
+            <option value="Team dinner"></option>
+            <option value="Family reunion"></option>
+            <option value="Party"></option>
+            <option value="Birthday Celebration"></option>
+            <option value="Team lunch"></option>
+        </datalist><br><br>
+        <label>Parking</label>
+        <input type="checkbox" id="parking" name="Parking Required" style="position: absolute; left: 0px;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Parking Required<br><br>
+        <button type="submit" id="submit" onclick="billCalculation()">Submit</button>
+        <button type="reset" id="reset">Clear</button>
+    </form><br><br>
+    <div id="msgDiv" style="font-family: Arial, Helvetica, sans-serif; font-size: x-large; color: #800000; font-size: 24px;" ></div>
+    
+</body>
+</html>

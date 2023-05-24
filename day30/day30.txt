@@ -1,0 +1,7 @@
+ADO - ActiveX Data Object
+Disconnected Architecture
+DOM
+
+Connection -> Data Adapter -> Data set
+
+StackTree

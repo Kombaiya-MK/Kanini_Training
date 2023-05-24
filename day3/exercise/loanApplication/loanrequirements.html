@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Loan requirements
+        </title>
+        <link rel="stylesheet" href="./style.css">
+        <header>
+                AOT Bank
+        </header>
+        <script src="./script.js"></script>
+    </head>
+    <body>
+        <form class = "formid" onsubmit="return false">
+            <br><br><label>Loan Amount</label>&emsp14;&emsp14;&emsp14;&emsp14;
+            <input type="number" id="loanamount" required><br><br>
+            <label>Tenure</label>&emsp14;&emsp14;&emsp14;&emsp14;
+            <input type="number" id="tenure" required><br><br>
+            <label>Type of loan</label>&emsp14;&emsp14;&emsp14;&emsp14;
+            <select name="loanType" id="loanTypee" required>
+                <option value="personal">Personal Loan</option>
+                <option value="property">Property Loan</option>
+                <option value="education">Education Loan</option>
+                <option value="gold">Gold loan</option>
+            </select><br><br>
+            <label>CIBIL score</label>&emsp14;&emsp14;&emsp14;&emsp14;
+            <input type="range" id="cscore" min="300" max="900" required><br><br><br><br>
+            <a class="fcc-btn" href="./financialinfo.html">Back</a>&emsp14;&emsp14;&emsp14;&emsp14;
+            <button onclick="addLoanInfo()" class="fcc-btn">Submit</button>
+        </form>
+    </body>
+</html>

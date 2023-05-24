@@ -1,0 +1,15 @@
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.exe
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.deps.json
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.runtimeconfig.json
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.dll
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.pdb
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.AssemblyInfo.cs
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.dll
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\refint\InBuiltDelegatesApp.dll
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.pdb
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.genruntimeconfig.cache
+D:\Kanini_training\day29\SolutionInBuiltDelegates\InBuiltDelegatesApp\obj\Debug\net6.0\ref\InBuiltDelegatesApp.dll

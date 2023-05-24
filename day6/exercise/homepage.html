@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Movinfo
+        </title>
+        <script src="script.js"></script>
+    </head>
+
+    <body>
+        <table>
+            <tr>
+                <td>Movie Name : </td>
+                <td><input type="text" id="MovName"></td>
+            </tr>
+            <tr>
+                <td>Movie duration (in mins) : </td>
+                <td><input type="number" id="MovDuration"></td>
+            </tr>
+            <tr>
+                <td>Movie Rating : </td>
+                <td><input type="range" min="0" max="5" id="MovRating" ></td>
+            </tr>
+
+            <tr>
+                <td><button onclick="assignMovieData()"> Register</button></td>
+                <td><button onclick="showMovieData()"> Show data</button></td>
+            </tr>
+        </table>
+
+        <div id="msgDiv" style="font-family: Arial, Helvetica, sans-serif; font-size: x-large;"></div>
+    </body>
+</html>

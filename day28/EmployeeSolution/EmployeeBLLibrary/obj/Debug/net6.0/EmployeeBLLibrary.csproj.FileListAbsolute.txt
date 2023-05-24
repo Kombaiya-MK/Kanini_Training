@@ -1,0 +1,17 @@
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.AssemblyInfo.cs
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeBLLibrary.deps.json
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeBLLibrary.dll
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeBLLibrary.pdb
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeDALLibrary.dll
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeModelLibrary.dll
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeDALLibrary.pdb
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\bin\Debug\net6.0\EmployeeModelLibrary.pdb
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.csproj.CopyComplete
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.dll
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\refint\EmployeeBLLibrary.dll
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\EmployeeBLLibrary.pdb
+D:\Kanini_training\day28\EmployeeSolution\EmployeeBLLibrary\obj\Debug\net6.0\ref\EmployeeBLLibrary.dll

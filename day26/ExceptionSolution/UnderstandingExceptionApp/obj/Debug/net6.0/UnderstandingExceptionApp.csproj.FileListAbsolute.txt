@@ -1,0 +1,15 @@
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\bin\Debug\net6.0\UnderstandingExceptionApp.exe
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\bin\Debug\net6.0\UnderstandingExceptionApp.deps.json
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\bin\Debug\net6.0\UnderstandingExceptionApp.runtimeconfig.json
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\bin\Debug\net6.0\UnderstandingExceptionApp.dll
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\bin\Debug\net6.0\UnderstandingExceptionApp.pdb
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.csproj.AssemblyReference.cache
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.AssemblyInfoInputs.cache
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.AssemblyInfo.cs
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.dll
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\refint\UnderstandingExceptionApp.dll
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.pdb
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\UnderstandingExceptionApp.genruntimeconfig.cache
+D:\Kanini_training\day26\ExceptionSolution\UnderstandingExceptionApp\obj\Debug\net6.0\ref\UnderstandingExceptionApp.dll

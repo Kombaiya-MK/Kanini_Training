@@ -1,0 +1,15 @@
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\bin\Debug\net6.0\ExerciseApp4.exe
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\bin\Debug\net6.0\ExerciseApp4.deps.json
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\bin\Debug\net6.0\ExerciseApp4.runtimeconfig.json
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\bin\Debug\net6.0\ExerciseApp4.dll
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\bin\Debug\net6.0\ExerciseApp4.pdb
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.csproj.AssemblyReference.cache
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.AssemblyInfoInputs.cache
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.AssemblyInfo.cs
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.csproj.CoreCompileInputs.cache
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.dll
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\refint\ExerciseApp4.dll
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.pdb
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ExerciseApp4.genruntimeconfig.cache
+D:\Kanini_training\day20\AssignmentSolution\ExerciseApp4\obj\Debug\net6.0\ref\ExerciseApp4.dll

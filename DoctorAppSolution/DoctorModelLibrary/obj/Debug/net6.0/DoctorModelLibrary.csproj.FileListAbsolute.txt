@@ -1,0 +1,12 @@
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\bin\Debug\net6.0\DoctorModelLibrary.deps.json
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\bin\Debug\net6.0\DoctorModelLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\bin\Debug\net6.0\DoctorModelLibrary.pdb
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.csproj.AssemblyReference.cache
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.AssemblyInfoInputs.cache
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.AssemblyInfo.cs
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.csproj.CoreCompileInputs.cache
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\refint\DoctorModelLibrary.dll
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.pdb
+D:\Kanini_training\DoctorAppSolution\DoctorModelLibrary\obj\Debug\net6.0\ref\DoctorModelLibrary.dll

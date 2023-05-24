@@ -1,0 +1,21 @@
+
+
+.flex{
+    display:flex;
+    background-color: rgb(145, 147, 146);
+    flex-direction: row;
+    width:180px;
+    position: relative;
+    top:300px;
+    left: 50%;
+    border: rgb(248, 252, 252) 2px solid;
+    
+}
+
+.flex > div{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+
+}
